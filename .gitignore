@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Виртуальные окружения
+venv/
+.env/
+.venv/
+
+# Байткод Python
+**/__pycache__/
+*.py[cod]
+
+# Локальная БД Django
+db.sqlite3
+
+# Загружаемые медиа-файлы
+media/
+
+# Логи
+*.log
